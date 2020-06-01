@@ -1,0 +1,2 @@
+use BDHS_PROJECT;
+SHOW TABLES;    
