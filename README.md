@@ -79,7 +79,7 @@ High: Average of intra-day highest price by month and year for each listed compa
 Volume: Average of number of shares traded by month and year for each listed company<br>
 
 
-## Data Analysis Was Performed Using Hive To Solve The Following Questions 
+## Data Analysis Was Performed Using Hive To Solve The Following Tasks
 
 
 <b>3) Find the top five companies that are good for investment<br>
