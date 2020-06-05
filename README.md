@@ -36,7 +36,7 @@ Headquarter: Headquarters address<br>
 
 ## Steps Performed:
 
-<b>1) Created a data pipeline using sqoop to pull the data from the tables(STOCK_COMPANIES AND STOCK_PRICES) from MYSQL server into Hive.</b>
+<b>1) Created a data pipeline using sqoop to pull the data from the tables(STOCK_COMPANIES AND STOCK_PRICES) from SQL server into Hive.</b>
 
 <b>a. MYSQL DATABASE NAME: BDHS_PROJECT</b>
 
